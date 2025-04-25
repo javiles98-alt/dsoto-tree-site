@@ -108,9 +108,6 @@ form.addEventListener("submit", async (e) => {
   }
 });
 
-submitBtn.disabled = true;
-submitBtn.textContent = "Sending...";
-
 // SCROLL TRIGGERED ANIMATION
 const sections = document.querySelectorAll(".fade-in");
 
