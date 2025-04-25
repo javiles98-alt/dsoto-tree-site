@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../nova-fitness-site-local"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Test 1"
+	}
+}
